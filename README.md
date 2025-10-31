@@ -41,5 +41,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takbir-hasan&show_icons=true&locale=en&layout=compact" alt="takbir-hasan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takbir-hasan&show_icons=true&locale=en" alt="takbir-hasan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=takbir-hasan&" alt="takbir-hasan" /></p>
