@@ -1,4 +1,4 @@
-![logo](https://github.com/takbir-hasan/takbir-hasan/blob/main/Github%20banner.png)
+![logo](https://github.com/takbir-hasan/takbir-hasan/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sajid Hasan Takbir</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh.</h3>
 
