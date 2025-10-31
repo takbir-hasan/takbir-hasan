@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://sajidhasantakbir.blogspot.com/](https://sajidhasantakbir.blogspot.com/)
 
-- 💬 Ask me about **C, C++, Java,OOP, Python**
+- 💬 Ask me about **C, C++, Java, OOP, Python, ML, LLM**
 
 - 📫 How to reach me **takbirhasan274@gmail.com**
 
